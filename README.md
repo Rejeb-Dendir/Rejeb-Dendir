@@ -13,7 +13,7 @@ With hands-on experience in Flutter, Firebase, and web technologies, I enjoy bui
 - 🤝 Actively looking to collaborate on impactful tech projects and open-source contributions.  
 
 📫 Let's Connect  
-🔗 [LinkedIn](https://linkedin.com/in/rejeb-dendir) | [GitHub](https://github.com/Rejeb-Dendir) 
+🔗 [LinkedIn](https://www.linkedin.com/in/rejebdendir)
 
 > I hate saying tomorrow. If it's worth doing, do it now! 
 
