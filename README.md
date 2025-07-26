@@ -21,7 +21,7 @@
 - 🤝 Open to collaboration on impactful projects & mentorship
 
 ### 🛠️ Tech Stack
-
+```json
 {
   "Languages": ["Dart", "JavaScript", "TypeScript", "Python"],
   "Frameworks": ["Flutter", "Express", "React"],
