@@ -21,14 +21,33 @@
 - 🤝 Open to collaboration on impactful projects & mentorship
 
 ### 🛠️ Tech Stack
-```json
-{
-  "Languages": ["Dart", "JavaScript", "TypeScript", "Python"],
-  "Frameworks": ["Flutter", "Express", "React"],
-  "Databases": ["Firebase", "MongoDB", "MySQL"],
-  "Tools": ["Git", "Postman", "VS Code", "Figma"],
-  "Others": ["REST API", "GraphQL", "Clean Architecture"]
-}
+
+**Languages:**  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frameworks:**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+**Databases:**  
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+
+**Architecture & APIs:**  
+![REST](https://img.shields.io/badge/REST-API-FF6C37?style=flat&logo=api&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+
 
 ### 📊 GitHub Stats
 
@@ -36,7 +55,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rejeb-dendir&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=rejeb-dendir&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeb-dendir&layout=compact&theme=tokyonight" />
-</p> ```
+</p> 
 
 ### 🔥 Fun Quote
 
