@@ -36,7 +36,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rejeb-dendir&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api?username=rejeb-dendir&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rejeb-dendir&layout=compact&theme=tokyonight" />
-</p>
+</p> ```
 
 ### 🔥 Fun Quote
 
