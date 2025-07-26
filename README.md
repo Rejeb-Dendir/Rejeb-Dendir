@@ -21,13 +21,14 @@
 - 🤝 Open to collaboration on impactful projects & mentorship
 
 ### 🛠️ Tech Stack
-
-**Languages:** Dart, JavaScript, TypeScript, Python  
-**Frameworks:** Flutter, Express, React  
-**Databases:** Firebase, MongoDB, MySQL  
-**Tools:** Git, Postman, VS Code, Figma  
-**Others:** REST API, GraphQL, Clean Architecture
-
+```json
+{
+  "Languages": ["Dart", "JavaScript", "TypeScript", "Python"],
+  "Frameworks": ["Flutter", "Express", "React"],
+  "Databases": ["Firebase", "MongoDB", "MySQL"],
+  "Tools": ["Git", "Postman", "VS Code", "Figma"],
+  "Others": ["REST API", "GraphQL", "Clean Architecture"]
+}
 
 ### 📊 GitHub Stats
 
