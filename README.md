@@ -1,4 +1,3 @@
-````markdown
 <h1 align="center">Hi there, I'm Rejeb Dendir! 👋</h1>
 
 <p align="center">
@@ -31,7 +30,7 @@
   "Tools": ["Git", "Postman", "VS Code", "Figma"],
   "Others": ["REST API", "GraphQL", "Clean Architecture"]
 }
-````
+
 
 ### 📊 GitHub Stats
 
